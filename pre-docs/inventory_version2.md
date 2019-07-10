@@ -83,6 +83,7 @@ The following plugins can be used for targets
 
 * `puppetdb` - Query PuppetDB to populate the targets.
 * `terraform` - Load a Terraform state file to populate the targets.
+* `vagrant` - Use the current vagrant environment as targets
 
 #### Config plugins
 
